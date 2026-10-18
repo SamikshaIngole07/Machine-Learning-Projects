@@ -1,2 +1,3 @@
 # Machine-Learning-Projects
-A collection of machine learning projects covering classification, regression, and clustering.
+A collection of Machine Learning projects and algorithms using Python, covering data preprocessing, model training, evaluation, and predictive analytics.
+
